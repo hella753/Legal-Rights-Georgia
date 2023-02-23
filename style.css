@@ -492,7 +492,7 @@ ul#navMenu2 {
   height: 15px;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 1000px) {
   .home {
     margin-right: 10px;
   }
