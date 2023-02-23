@@ -620,4 +620,13 @@ ul#navMenu2 {
   .navbar2 {
     font-size: 3vw;
   }
+  .civ {
+    color: black;
+  }
+  .adm {
+    color: black;
+  }
+  .civbutton {
+    color: black;
+  }
 }
